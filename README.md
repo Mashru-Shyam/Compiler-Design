@@ -1,6 +1,6 @@
 ### Compiler Design
 
-- This Project Focus on designing the compiler which is capable of converting the **Roman Numbers** to simple **Integer Numbers**.
+- Project on designing the compiler which is capable of converting the **Roman Numbers** to simple **Integer Numbers**.
 
 #### Authour
 - Shyam Gulabray Mashru
